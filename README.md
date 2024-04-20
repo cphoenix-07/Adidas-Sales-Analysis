@@ -4,6 +4,13 @@
 
 This repository contains the code and documentation for analyzing Adidas US sales data to uncover insights for strategic decision-making. The analysis is performed using Python, SQL, and Tableau, aiming to optimize strategies, expand into new markets, and achieve revenue growth.
 
+
+
+
+![Adidas_Logo svg](https://github.com/cphoenix-07/Adidas-Sales-Analysis/assets/71826054/68a2d46a-1d99-4839-884b-c5e8d6b712f5)
+
+
+
 ## Overview
 
 The analysis focuses on exploring Adidas US sales data to identify trends, demographics, and disparities in the retail market. By leveraging Python for data preprocessing and statistical analysis, SQL for database querying, and Tableau for visualization, the project aims to provide actionable insights for optimizing sales strategies and expanding into new markets.
