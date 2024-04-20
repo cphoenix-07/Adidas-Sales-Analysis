@@ -42,10 +42,6 @@ The analysis focuses on exploring Adidas US sales data to identify trends, demog
 5. Import the data into Tableau for visualization and further analysis.
 6. Review the documentation for detailed insights and recommendations.
 
-## Contributors
-
-- John Doe (johndoe@example.com)
-- Jane Smith (janesmith@example.com)
 
 ## License
 
@@ -53,4 +49,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-Special thanks to Adidas for providing the sales dataset and supporting this analysis.
+Special thanks to Adidas for providing the public sales dataset and supporting this analysis.
