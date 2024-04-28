@@ -11,6 +11,9 @@ This repository contains the code and documentation for analyzing Adidas US sale
 
 The analysis focuses on exploring Adidas US sales data to identify trends, demographics, and disparities in the retail market. By leveraging Python for data preprocessing and statistical analysis, SQL for database querying, and Tableau for visualization, the project aims to provide actionable insights for optimizing sales strategies and expanding into new markets.
 
+Jupyter Notebook: https://adidas-retail-analytics.runmercury.com/
+Dashboard & Story: https://public.tableau.com/app/profile/vaibhav.kumar4364/viz/AdidasUSSalesAnalytics/Story
+
 ## Key Features
 
 - **Data Preprocessing:** Utilize Python for cleaning and preparing the dataset.
